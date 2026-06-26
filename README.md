@@ -74,4 +74,4 @@ Database terdiri dari beberapa tabel:
 Clone repository:
 
 ```bash
-git clone https://github.com/revaalinaa/tubes-siakad-IFA24-REVALINA.git
+git clone https://github.com/revaalinaa/tubes-siakad-IFA24-5520124027-Revalina.git
